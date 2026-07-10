@@ -1,0 +1,1 @@
+# blog_t-cnico--entrega_final_mentalidad-de-crecimiento
