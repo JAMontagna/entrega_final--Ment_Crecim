@@ -1,1 +1,1 @@
-# blog_t-cnico--entrega_final_mentalidad-de-crecimiento
+# blog_tecnico--entrega_final_mentalidad-de-crecimiento
