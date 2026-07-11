@@ -77,10 +77,10 @@ También queda claro que un post-mortem bien conducido no busca identificar a qu
 
 # Evidencia de control de versiones
 
-*(Esta sección queda pendiente de completar con enlaces reales una vez creado el repositorio en GitHub. Va a incluir):*
+Los cambios documentados en este post quedaron registrados en el repositorio público del ejercicio: [entrega_final--Ment_Crecim](https://github.com/JAMontagna/entrega_final--Ment_Crecim).
 
-- Enlace al repositorio público donde se documentó la plantilla de mensaje asincrónico como acción correctiva.
-- Enlace al commit o Pull Request específico que incorpora ese archivo.
+- Commit con el contenido completo del post: [`0b24f96` — Create index.md](https://github.com/JAMontagna/entrega_final--Ment_Crecim/commit/0b24f96)
+- Commit con la plantilla de mensaje asincrónico, documentada como acción correctiva: [`d7cc78f` — Create plantilla-mensaje-asincronico.md](https://github.com/JAMontagna/entrega_final--Ment_Crecim/commit/d7cc78f)
 
 # Reflexión sobre feedback radicalmente sincero
 
